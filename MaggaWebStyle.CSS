@@ -1,0 +1,46 @@
+body{
+    background-color:#cccccccc;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    background-color: #ffffffff; */
+    width: 100; 
+    height: 140px;
+}
+
+.container img{
+    margin-right: 220px; /* Espacio entre la imagen y el texto */
+}
+
+#tituloInicial{
+    text-align: center;
+    color:black;
+    font-size: 80px;
+}
+
+
+.StringCenter{
+    text-align: center;
+}
+
+footer{
+    background:#ffffffff ;
+    text-align: center;
+    padding: 20px;
+}
+.StringCenter{
+    font-size: 40px;
+}
+p{
+    font-size:25px;
+}
+
+
+.Copyright{
+    font-weight: bold;
+    font-size: 13px;
+    padding: 20px;
+}
