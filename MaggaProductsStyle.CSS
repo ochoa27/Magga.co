@@ -1,7 +1,8 @@
 body{
-    background-color: #cccccccc;
-}
-
+    background-color:#cccccccc;
+    font-family: "Montserrat", sans-serif;  
+    }
+    
 header{
     background-color:#ffffffff;
     padding: 20px 0;
